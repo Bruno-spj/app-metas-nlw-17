@@ -1,22 +1,30 @@
 [
   {
     "value": "Tomar 3L de água por dia",
-    "checked": true
+    "checked": false
   },
   {
     "value": "Fazer devocional diária de 5 minutos pela manhã",
-    "checked": true
+    "checked": false
   },
   {
     "value": "Fazer 20 minutos de caminhada por dia ",
-    "checked": true
+    "checked": false
   },
   {
     "value": "Fazer 10 minutos de cárdio por dia",
-    "checked": true
+    "checked": false
   },
   {
     "value": "Estudar 2 horas de programação por dia",
-    "checked": true
+    "checked": false
+  },
+  {
+    "value": "Ler 1 cápitulo da bíblia por dia. ",
+    "checked": false
+  },
+  {
+    "value": "Fazer 10 minutos de Duolingo por dia.",
+    "checked": false
   }
 ]
